@@ -1,0 +1,36 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+OXRS_LCD                     KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin                        KEYWORD2
+setBrightnessOn              KEYWORD2
+setBrightnessDim             KEYWORD2
+setOnTimeDisplay             KEYWORD2
+setOnTimeEvent               KEYWORD2
+draw_header                  KEYWORD2
+drawBars                     KEYWORD2
+setBarValue                  KEYWORD2
+setBarState                  KEYWORD2
+setBarMaxValue               KEYWORD2
+show_MQTT_topic              KEYWORD2
+show_temp                    KEYWORD2
+show_event                   KEYWORD2
+loop                         KEYWORD2
+trigger_mqtt_rx_led          KEYWORD2
+trigger_mqtt_tx_led          KEYWORD2
+show_mqtt_connection_status  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+CHANNEL_NA                  LITERAL1
+CHANNEL_OFF                 LITERAL1
+CHANNEL_ON                  LITERAL1
+CHANNEL_FAULT               LITERAL1
